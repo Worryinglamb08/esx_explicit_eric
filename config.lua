@@ -15,8 +15,8 @@ Config.uppdragsWear = {
         ['arms'] = 17,
         ['pants_1'] = 5, ['pants_2'] = 2,
         ['shoes_1'] = 31, ['shoes_2'] = 1,
-		['mask_1'] = 54, ['mask_2'] = 0,
-		['glasses_1'] = 0, ['glasses_2'] = 0,
+	['mask_1'] = 54, ['mask_2'] = 0,
+	['glasses_1'] = 0, ['glasses_2'] = 0,
         ['chain_1'] = 0, ['chain_2'] = 0,
         ['ears_1'] = -1, ['ears_2'] = 0
     },
