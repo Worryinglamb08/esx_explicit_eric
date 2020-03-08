@@ -2,7 +2,7 @@
 
 Simpelt uppdrag man kan göra ingame
 
-lägg till ett item som heter dokument i sqlen
+Importera filen item.sql
 
 starta i cfgn 
 
